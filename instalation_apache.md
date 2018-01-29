@@ -123,3 +123,5 @@ apt-get install php5 php5-mysql libapache2-mod-php5
 3/ Depuis un navigateur internet, entrez l’adresse http://ip_de_votre_serveur/info.php
 4/ Si Votre Texte s'affiche C'est GOOD sinon Cherche la solution.
 ````
+
+test reussi !!!
